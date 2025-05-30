@@ -1,0 +1,6 @@
+elasticsearch
+transformers
+scikit-learn
+pandas
+jupyter
+{\rtf1}
